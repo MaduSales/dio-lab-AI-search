@@ -12,7 +12,7 @@ No Portal da Azure, precisamos selecionar o botão de "criar recurso", procurar 
 <br>
 
 📩 ## 2º Passo: Criando um Azure AI services resource
-Retorne para a homepage, lique em "criar recurso" novamente e selecione a opção <i>Azure AI services<i/>. Configure o recurso de acordo com a documentação oficial.
+Retorne para a homepage, lique em "criar recurso" novamente e selecione a opção <i>Azure AI services</i>. Configure o recurso de acordo com a documentação oficial.
 
 🗂️ ## 3º Passo: Criando uma Storage Account
 Como uma Storage Account funciona como um armazenamento, volta até a homepage e selecione novamente "criar recurso", pesquise por <i>Storage account</i> e configure seguindo o passo a passo da documentação. Após a criação, vá no menu ao lado e no painel, escolhe "configurações" para ativar a função <i>Allow Blob anonymous access</i>.
