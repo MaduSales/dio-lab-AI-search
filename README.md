@@ -17,7 +17,7 @@ Retorne para a homepage, lique em "criar recurso" novamente e selecione a opçã
 <br>
 
 ## 🗂️ 3º Passo: Criando uma Storage Account
-Como uma Storage Account funciona como um armazenamento, volta até a homepage e selecione novamente "criar recurso", pesquise por <i>Storage account</i> e configure seguindo o passo a passo da documentação. Após a criação, vá no menu ao lado e no painel, escolhe "configurações" para ativar a função <i>Allow Blob anonymous access</i>.
+Como uma Storage Account funciona como um armazenamento, volte até a homepage e selecione novamente "criar recurso", pesquise por <i>Storage account</i> e configure seguindo o passo a passo da documentação. Após a criação, vá no menu ao lado e no painel, escolhe "configurações" para ativar a função <i>Allow Blob anonymous access</i>.
 <br>
 <br>
 
